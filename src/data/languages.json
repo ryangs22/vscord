@@ -306,6 +306,24 @@
         }
     ],
     "KNOWN_EXTENSIONS": {
+        "/^rspack\\.config\\.(js|cjs|mjs|ts)$/i": {
+            "image": "rspack"
+        },
+        "/^tsconfig\\.json$/i": {
+            "image": "tsconfig"
+        },
+        "/^postcss\\.config\\.(js|cjs|mjs|ts)$/i": {
+            "image": "postcss"
+        },
+        "/^eslint\\.config\\.(js|cjs|mjs|ts)$/i": {
+            "image": "eslint"
+        },
+        "/^jsconfig\\.json$/i": {
+            "image": "jsconfig"
+        },
+        "/^next\\.config\\.(js|cjs|mjs|ts)$/i": {
+            "image": "nextjs"
+        },
         "/(cargo\\.toml|cargo\\.lock)/i": {
             "image": "cargo"
         },

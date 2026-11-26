@@ -411,7 +411,7 @@
                     },
                     "vscord.status.image.large.viewing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{lang}.png",
+                        "default": "https://raw.githubusercontent.com/ryangs22/vscord/main/assets/icons/{lang}.png",
                         "description": "The image url to use when viewing a file."
                     },
                     "vscord.status.image.large.viewing.text": {
@@ -421,7 +421,7 @@
                     },
                     "vscord.status.image.large.editing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{lang}.png",
+                        "default": "https://raw.githubusercontent.com/ryangs22/vscord/main/assets/icons/{lang}.png",
                         "description": "The image url to use when editing a file."
                     },
                     "vscord.status.image.large.editing.text": {
